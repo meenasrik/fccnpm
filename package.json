@@ -1,0 +1,20 @@
+{
+  "name": "@newdeveloper/fccnpm",
+  "version": "1.0.0",
+  "description": "Manage packages with npm challenge free code camp",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meenasrik/fccnpm"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  },
+  "author": "Meena",
+  "license": "ISC"
+}
